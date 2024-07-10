@@ -1,0 +1,13 @@
+.input{
+    margin-left: 25px;
+    color: grey;
+    padding: 8px;
+    width: 280px;
+}
+.B{width: 350px;
+    height: 350px;
+    background-image: linear-gradient(to right, rgba(252, 124, 20, 0.998), rgba(220, 27, 111, 0.953));
+    margin-top: 100px;
+    margin-left: 250px;
+    border-top-left-radius :10px ;
+    border-bottom-left-radius: 10px;}
